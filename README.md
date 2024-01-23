@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 ## 3- Tables Description :
 
-- ## Products Table:
+## Products Table:
 |Field	| Description |
 |-----|----------------|
 | Product_ID |	Product ID |
