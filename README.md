@@ -17,14 +17,14 @@ ________________________________________________________________________________
 | Product_Cost |	Product cost ($USD) |
 | Product_Price |	Product retail price ($USD) |
 
-- ## Inventory Table:
+## Inventory Table:
 |Field	| Description |
 |-----|----------------|
 |	Store_ID |	Store ID |
 |	Product_ID |	Product ID |
 | Stock_On_Hand |	Stock quantity of the product in the store (inventory) |
 
-- ## Stores Table:
+## Stores Table:
 |Field	| Description |
 |-----|----------------|
 |	Store_ID|	Store ID|
@@ -33,7 +33,7 @@ ________________________________________________________________________________
 |	Store_Location|	Location in the city where the store is located|
 | Store_Open_Date|	Date when the store was opened|
 
-- ## Sales Table:
+## Sales Table:
 |Field	| Description |
 |-----|----------------|
 |	Sale_ID|	Sale ID|
@@ -42,7 +42,7 @@ ________________________________________________________________________________
 |	Product_ID|	Product ID|
 |	Units|	Units sold|
 
-- ## Calendar Table:
+## Calendar Table:
 |Field	| Description |
 |-----|----------------|
 | Calendar |	Date|	Calendar date|
