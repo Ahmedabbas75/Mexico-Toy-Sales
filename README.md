@@ -54,3 +54,23 @@ ________________________________________________________________________________
   <p float="left">
   <img src='resources/Mexico Toy Sales.png'/>
 </p>
+__________________________________________________________________________________________________________________________
+
+## 5- In Mind Questions :
+
+- ## Project Objective :
+  - Connect to SQL Server and Check Tables. 
+  - Create a relational model.
+  - Add calculated measures & fields
+  - Build an interactive report
+
+- ## Business Questions :
+  1. Which product categories drive the biggest profits? Is this the same across store locations?
+     - Total profit among the five product categories was observed in `Toys`, *reaching $1,079,527*. This figure was **113.46%** higher than the lowest total profit, which was in the `Sports & Outdoors` category at *$505,718.*
+
+    - `Toys` accounted for a significant portion of the total profit, *contributing to 26.89% of the overall profits across all five product categories.*
+
+    - The total profits across the entire set of product categories ranged from **$505,718** to **$1,079,527**. *This indicates a considerable variation in profitability across the different product categories.*
+    
+    - 
+  
