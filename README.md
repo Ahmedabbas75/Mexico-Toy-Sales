@@ -88,3 +88,15 @@ ________________________________________________________________________________
           - Total profit across the five product categories showed variation, ranging from **$293,468** to **$630,029**, *illustrating diverse levels of profitability within the product portfolio.*
 
         - ➡️ In **`Commercial`**
+          - `Electronics` led with the highest total profit at *$287,574*, demonstrating a **155.62%** increase compared to the lowest total profit in `Sports & Outdoors`, which amounted to *$112,499.*
+
+          - `Electronics` made a substantial contribution to the overall profitability, *representing 31.03% of the total profit across all five product categories.*
+
+          - Total profit across the five product categories displayed variation, ranging from **$112,499** to **$287,574**, *highlighting diverse levels of profitability within the product portfolio.*
+         
+        - ➡️ In **`Airport`**
+          - `Electronics` led with the highest total profit at *$108,197*, showing a substantial **174.66%** increase compared to the lowest total profit in Sports & Outdoors, which amounted to *$39,393.*
+
+          - `Electronics` contributed significantly to the overall profitability, *representing 28.62% of the total profit across all five product categories.*
+
+          - Total profit across the five product categories varied, ranging from **$39,393** to **$108,197**, *indicating diverse levels of profitability within the product portfolio.*
