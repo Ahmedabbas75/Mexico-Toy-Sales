@@ -72,5 +72,11 @@ ________________________________________________________________________________
 
     - The total profits across the entire set of product categories ranged from **$505,718** to **$1,079,527**. *This indicates a considerable variation in profitability across the different product categories.*
     
-    - 
+    - 🛑 profit percentage varies from one location to another:
+        - In `Residential`
+          - Toys recorded the highest total profit at $136,214, demonstrating a 125.68% increase compared to the lowest total profit in Sports & Outdoors, which was $60,358.
+
+          - Toys contributed significantly to the overall profitability, representing 29.59% of the total profit across all five product categories.
+
+          - The total profit across the five product categories varied, ranging from $60,358 to $136,214, showcasing distinct levels of profitability within the product portfolio.
   
