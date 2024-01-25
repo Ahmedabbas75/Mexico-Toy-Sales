@@ -65,8 +65,8 @@ ________________________________________________________________________________
   - Build an interactive report
 
 - ## Business Questions :
-  1. Which product categories drive the biggest profits? Is this the same across store locations?
-     - Total profit among the five product categories was observed in `Toys`, *reaching $1,079,527*. This figure was **113.46%** higher than the lowest total profit, which was in the `Sports & Outdoors` category at *$505,718.*
+  ### 📌1️⃣ Which product categories drive the biggest profits? Is this the same across store locations?
+    - Total profit among the five product categories was observed in `Toys`, *reaching $1,079,527*. This figure was **113.46%** higher than the lowest total profit, which was in the `Sports & Outdoors` category at *$505,718.*
 
     - `Toys` accounted for a significant portion of the total profit, *contributing to 26.89% of the overall profits across all five product categories.*
 
