@@ -100,3 +100,6 @@ ________________________________________________________________________________
           - `Electronics` contributed significantly to the overall profitability, *representing 28.62% of the total profit across all five product categories.*
 
           - Total profit across the five product categories varied, ranging from **$39,393** to **$108,197**, *indicating diverse levels of profitability within the product portfolio.*
+            
+  ### 📌2️⃣ Can you find any seasonal trends or patterns in the sales data?
+    - 
