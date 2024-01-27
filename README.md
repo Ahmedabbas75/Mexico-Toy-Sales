@@ -103,8 +103,27 @@ ________________________________________________________________________________
             
   ### 📌2️⃣ Can you find any seasonal trends or patterns in the sales data?
     - ➡️ In **`Sprint`**
+      
       - Total orders for `Toys` reached **58,806**, *making it the product category with the highest demand.*
       - This was **93.35%** higher than `Electronics`, *which had the lowest total orders at 30,414.*
       - `Toys` accounted for a significant portion, representing **26.46%** of the total orders.
       - Across all five product categories, the total orders varied, ranging from **30,414** to **58,806.**
+        
+    - ➡️ In **`Summer`**
+
+      - `Toys` had the highest total orders, reaching **72,085.**
+      - This total was **162.58%** higher than `Electronics`, *which had the lowest total orders at 27,453*
+      - `Toys` accounted for **28.48%** of the total orders, indicating a significant share of overall demand.
+      - Across all five product categories, the total orders ranged from **27,453** to **72,085**, highlighting the variability in demand across different product types.
+     
+     - ➡️ In **`Autumn`**
+
+       - `Art & Crafts` had the highest total orders, **reaching 64,157.**
+       - This total was **138.05%** higher than `Electronics`, which had the lowest total orders of **26,951.**
+       - `Art & Crafts` accounted for **27.88%** of the total orders, indicating a substantial share of overall demand.
+       - Across all five product categories, the total orders ranged from **26,951** to **64,157**, showcasing the variability in demand across different product types.
+      
+     - ➡️ In **`Winter`**
+       - 
+
 
