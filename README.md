@@ -102,4 +102,9 @@ ________________________________________________________________________________
           - Total profit across the five product categories varied, ranging from **$39,393** to **$108,197**, *indicating diverse levels of profitability within the product portfolio.*
             
   ### 📌2️⃣ Can you find any seasonal trends or patterns in the sales data?
-    - 
+    - ➡️ In **`Sprint`**
+      - Total orders for `Toys` reached **58,806**, *making it the product category with the highest demand.*
+      - This was **93.35%** higher than `Electronics`, *which had the lowest total orders at 30,414.*
+      - `Toys` accounted for a significant portion, representing **26.46%** of the total orders.
+      - Across all five product categories, the total orders varied, ranging from **30,414** to **58,806.**
+
