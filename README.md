@@ -1,5 +1,9 @@
 ## 1- Dashboard :
-
+</p>
+  <p float="left">
+  <img src='resources/Mexico Toy Sales page one.jpg'/>
+  <img src='resources/Mexico Toy Sales page 2.jpg'/>
+</p>
 __________________________________________________________________________________________________________________________
 
 ## 2- About the Dataset :
