@@ -128,6 +128,10 @@ ________________________________________________________________________________
        - Across all five product categories, the total orders ranged from **26,951** to **64,157**, showcasing the variability in demand across different product types.
       
      - ➡️ In **`Winter`**
-       - 
+       
+       - `Art & Crafts` had the highest total orders, amounting to **35,559.**
+       - This total was **150.29%** higher than `Electronics`, which had the lowest total orders at **14,207.**
+       - `Art & Crafts` accounted for **28.73%** of the total orders, indicating a significant proportion of overall demand.
+       - Across all five product categories, the total orders ranged from **14,207** to **35,559**, demonstrating the variability in demand across different product types.
 
 
