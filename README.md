@@ -4,6 +4,7 @@
   <img src='resources/Mexico Toy Sales page one.jpg'/>
   <img src='resources/Mexico Toy Sales page 2.jpg'/>
 </p>
+<iframe title="Mexico Toy Sales" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiY2FiNjhjZjYtMDFiNi00YWNjLWEyMjAtNmRjZDZmZmY0MGFkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowFullScreen="true"></iframe>
 __________________________________________________________________________________________________________________________
 
 ## 2- About the Dataset :
