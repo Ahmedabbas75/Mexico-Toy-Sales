@@ -4,9 +4,6 @@
   <img src='resources/Mexico Toy Sales page one.jpg'/>
   <img src='resources/Mexico Toy Sales page 2.jpg'/>
 </p>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiY2FiNjhjZjYtMDFiNi00YWNjLWEyMjAtNmRjZDZmZmY0MGFkI" target="_blank">
-  <img src="path_to_image" alt="Mexico Toy Sales" width="600" height="373.5">
-</a>
 
 __________________________________________________________________________________________________________________________
 
